@@ -1,0 +1,25 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is namaste react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artipandey17/NamasteReact.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Arti Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artipandey17/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/artipandey17/NamasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
