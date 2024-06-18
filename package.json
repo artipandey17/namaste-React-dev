@@ -4,6 +4,8 @@
   "description": "This is namaste react",
   "main": "App.js",
   "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
     "test": "jest"
   },
   "repository": {
@@ -13,6 +15,9 @@
   "keywords": [
     "react"
   ],
+  "browserslist": [
+    "last 2 versions"
+  ],
   "author": "Arti Pandey",
   "license": "ISC",
   "bugs": {
@@ -20,6 +25,11 @@
   },
   "homepage": "https://github.com/artipandey17/NamasteReact#readme",
   "devDependencies": {
-    "parcel": "^2.12.0"
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   }
 }
