@@ -2,3 +2,27 @@
     color:red;
     background-color: aqua;
 }
+body{
+  
+}
+.logo{
+    width: 65px;
+    margin-top: 1%;
+}
+
+.search{
+    width: 40%;
+    padding: 10px;
+    font-size: medium;
+    color: #00688a;
+    padding: 30px,0;
+    border: #00688a;
+    margin-top: 50px;
+    line-height: 1;
+    border: 2px solid ;
+    border-radius: 8px;
+
+}
+.user{
+    padding: 10px;
+}
