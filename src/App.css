@@ -31,9 +31,23 @@
     cursor: pointer;
     border: 1px solid black;
 }
-.search{
-    padding: 10px 20px 20px;
+.filter{
+    padding: 10px ;
     font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.search-box{
+    padding: 5px;
+    font-size: 15px;
+    margin-right: 6px;
+    width: 160px;
+    padding-top: 5px;
+}
+.search-btn{
+    padding-top: 0;
+    padding: 2px;
+    width: 70px;
 }
 .res-logo{
     width: 100%;
@@ -42,4 +56,24 @@
 }
 .res-container{
     padding: 10px;
+}
+.rating-btn{
+    margin: 2px;
+    padding: 5px;
+}
+.shimmer-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.shimmer-card{
+    width: 250px;
+    height: 400px;
+    margin:10px;
+    background-color: #ece5d9;
+}
+.login{
+    padding: 0,20px;
+    border-radius: 4px;
+    cursor: pointer;
+ 
 }
