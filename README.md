@@ -44,3 +44,11 @@ there are 2 types of exports
  2 Named Export/import 
    export const Component
    import {Component} from "path"  
+
+
+   // commeted code for api call may be referred for future 
+   //working
+    //https://www.swiggy.com/mapi/restaurants/list/v5?offset=0&is-seo-homepage-enabled=true&lat=19.0759837&lng=72.8776559&carousel=true&third_party_vendor=1
+    //https://cors-handlers.vercel.app/api/?url=
+    //lat: 19.0759837
+    //lng: 72.8776559

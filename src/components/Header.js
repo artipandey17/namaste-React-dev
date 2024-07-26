@@ -25,7 +25,6 @@ import { LOGO_URL } from "../utils/constants";
             <button className="login" onClick={()=>{
               buttonName==="Login"?
               setButtonName("Logout"):setButtonName("Login")
-              console.log(setButtonName)
             }}
             >{buttonName}</button>
           </ul>
